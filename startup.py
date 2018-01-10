@@ -102,3 +102,4 @@ def check_startup():
     startup_vars['token'] = token
 
     return startup_vars
+

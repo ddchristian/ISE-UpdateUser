@@ -9,4 +9,3 @@ base64Val = base64.b64encode(userPass.encode())
 primeAuthToken = base64Val.decode()
 print('Your Base64 Encoded token is: \n', primeAuthToken)
 
-

@@ -34,3 +34,4 @@ for group in groups :
     print('name = ', groups[groups.index(group)]['name'])
     print('description = ', groups[groups.index(group)]['description'])
     print('\n')
+
