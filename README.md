@@ -10,12 +10,16 @@ An ISE Administrator with the "ERS-Admin" or "ERS-Operator" group assignment is 
 
 From the ISE console choose Administration > Settings > ERS Settings.
 
+The initial project was done using Python 3.6.2.
+
  
 --- 
 
 ## Repo Information
 * *README.md*
 	* This document
+* *requirements.txt*
+	* Some of the library dependencies used
 * *startup.cfg*
 	* A configparser file used to store and retrieve ISE IP Address and ISE base 64 encoded token.
 * *startup.py*
